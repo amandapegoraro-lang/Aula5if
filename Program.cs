@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 //Console.WriteLine("Hello, World!");
-//Atividade1.Executar();
+Atividade1.Executar();
 //Atividade2.Executar();
 //Atividade3.Executar();
 //Atividade4.Executar();
